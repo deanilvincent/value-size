@@ -1,7 +1,7 @@
 [![Build Status](https://dev.azure.com/dv-github-repos/value-size/_apis/build/status/deanilvincent.value-size?branchName=master)](https://dev.azure.com/dv-github-repos/value-size/_build/latest?definitionId=1&branchName=master)
 
 # Overview
-Gets the size of an array, object or string.
+NPM Package for getting the size of an array, object or string.
 
 # Installation
 
