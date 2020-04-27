@@ -1,7 +1,7 @@
 {
   "name": "value-size",
   "version": "1.0.0",
-  "description": "Gets the size of an array, object or string.",
+  "description": "NPM package in getting the size of an array, object or string.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
