@@ -1,0 +1,37 @@
+{
+  "name": "value-size",
+  "version": "1.0.0",
+  "description": "Gets the size of an array, object or string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanilvincent/value-size.git"
+  },
+  "keywords": [
+    "value-size",
+    "array-size",
+    "object-size",
+    "size",
+    "string-size",
+    "array",
+    "size",
+    "object",
+    "size",
+    "string",
+    "size",
+    "value",
+    "size"
+  ],
+  "author": "dvincent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deanilvincent/value-size/issues"
+  },
+  "homepage": "https://github.com/deanilvincent/value-size#readme",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
